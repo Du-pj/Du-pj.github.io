@@ -1,9 +1,11 @@
 body{
     background-color:grey;
     color:pink;
+    margin-right:auto;
+    margin-left:auto;
 }
 h1{
-   color：aliceblue;
+   color:aliceblue;
    font-size:30px；
 }
 img{
@@ -17,7 +19,7 @@ h2{
 #huren{
     font-size:30px;
 }
-#lebron{
+#Lebron{
     width:600px;
     height:450px;
 }
